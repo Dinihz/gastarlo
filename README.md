@@ -4,7 +4,7 @@
 
 ## 📖 Descrição
 
-Gartarlo é uma aplicação web para você registrar despesas por dia/mês e visualizar gráficos dinâmicos (pizza, calendário, tendências). Cada gasto é categorizado (alimentação, transporte, jogos etc.) e as visualizações se atualizam em tempo real.
+Gastarlo é uma aplicação web para você registrar despesas por dia/mês e visualizar gráficos dinâmicos (pizza, calendário, tendências). Cada gasto é categorizado (alimentação, transporte, jogos etc.) e as visualizações se atualizam em tempo real.
 
 ## 🚀 Funcionalidades
 
@@ -17,7 +17,7 @@ Gartarlo é uma aplicação web para você registrar despesas por dia/mês e vis
 
 ## 🛠️ Tecnologias
 
-- **Frontend**: React + TypeScript + Tailwind CSS :contentReference[oaicite:0]{index=0}  
+- **Frontend**: React + TypeScript + Tailwind CSS
 - **Backend**: NestJS + Fastify + PostgreSQL + TypeORM  
 - **Gráficos**: Chart.js  
 - **Autenticação**: JWT  
