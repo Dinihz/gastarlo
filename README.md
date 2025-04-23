@@ -1,4 +1,4 @@
-# Gartarlo
+# Gastarlo
 
 > Controle simples e visual dos seus gastos diários e mensais.
 
